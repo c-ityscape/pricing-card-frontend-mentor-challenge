@@ -103,3 +103,12 @@ ul{
   font-size: 0.8rem;
   opacity: 0.8;
 }
+@media(max-width: 650px){
+  #bottom-left-section,#bottom-right-section{
+    width: 100%;
+  }
+  #card{
+    height: auto;
+    width: 100%;
+  }
+}
